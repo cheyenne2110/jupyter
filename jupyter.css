@@ -351,3 +351,8 @@ body {
 .impressum a:hover img {
             transform: scale(1.2);
         }
+@media only screen and (max-width: 480px) {
+	.musik {
+		display: grid;
+	}
+}
